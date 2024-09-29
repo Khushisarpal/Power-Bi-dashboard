@@ -2,7 +2,7 @@
 ## Project Overview
 ### This project presents a Hardware Inventory Dashboard built-in Power BI, which provides a comprehensive overview of inventory devices allocated across various departments. The dashboard allows users to explore key metrics such as the count of serviceable devices, lost devices, free devices, and total allocated devices. It also tracks device distribution across departments and their allocation trends over the years, offering insights into inventory management for hardware resources.
 **Note**: For security reasons, I have not included the live dashboard. Instead, a JPG picture of the dashboard has been provided to showcase the design and layout.
-![Hardware Inventory Dashboard]()
+![Hardware Inventory Dashboard](capture.JPG)
 ## Features
 Overview of Inventory Devices:
 
